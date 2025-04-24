@@ -16,6 +16,6 @@ git commit -m "Mensagem"
 
 Comando | Resultado
 --------| ---------
-```git status``` | Mostra o status da arvore de trabalho
-```git add``` | Adiciona o conteúdo do arquivo no index
-```git commit -m "Mensagem"```| Guarda as mudanças no repositório
+`git status` | Mostra o status da arvore de trabalho
+`git add` | Adiciona o conteúdo do arquivo no index
+`git commit -m "Mensagem"`| Guarda as mudanças no repositório
